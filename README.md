@@ -1,6 +1,14 @@
 #Dialog 样式#
 
 ----------
+
+depends on project 
+                       https://github.com/pnikosis/materialish-progress and https://github.com/pedant/sweet-alert-dialog
+                      
+                       
+        
+----------
+
 **traditional dialog**
 	
 只含有title的dialog
