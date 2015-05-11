@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Dialog 样式#
 
 ----------
@@ -128,6 +127,3 @@
             }
         }.start();
     }
-=======
-# AnimationDialog
->>>>>>> ab946bde2286eacdbf4ffdeb383d6e73faf04dd6
